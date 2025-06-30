@@ -1,0 +1,46 @@
+body {
+    background-color: blanchedalmond;
+}
+.profile {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 200px;
+}
+.profileimage {
+    width: 150px;
+    padding-top: 55px;
+   
+}
+.profile h2 {
+    color: white;
+}
+.profile h2 {
+    color: white;
+
+transform: translateY(-10px);}
+
+.about me {
+    background-color: #fff;
+     padding-top: 55px;
+
+}
+.row {
+    padding: opx 10px;
+}
+.hobby {
+    padding-top: 55px;
+}
+.footer {
+    background-color: #fff;
+    padding-bottom: 20px;
+}
+.contact a {
+    color: black;
+    font-size: 30px;
+    
+}
+.watermark {
+    padding-bottom: 30px;
+}
